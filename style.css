@@ -61,6 +61,7 @@ body{
 }
 .section-title{
     padding-block-end: 30px;
+    border-bottom: 1px solid var(--main-color);
 }
 .section{
     padding-block-end: 50px;
@@ -266,14 +267,9 @@ body{
 /* Key Style End */
 /* Code Style Start */
    .section code {
+    font-size: 21px;
     position: relative;
     inset-inline-start: -180px;
-  }
-  .divider_orange {
-    display: block;
-    block-size: 2px;
-    background-color:var(--main-color);
-    margin: 20px 0px;
   }
 /* Code Style End */
 /* Project Style Start */
@@ -290,11 +286,6 @@ body{
         color: var(--main-color);
         text-decoration: underline;
     }
-   .divider_orange {
-    display: block;
-    block-size: 2px;
-    background-color:var(--main-color);
-    margin: 20px 0px;
   }
 /* Project Style End */
 /* Footer Style Start */
