@@ -244,6 +244,9 @@ body{
 }
 /* Languages Style End */
 /* Key Style Start */
+   .section key{
+	   font-size: 20px;
+}
    .key__item{
         padding: 0 0 10px 15px;
         position: relative;
@@ -276,6 +279,8 @@ body{
 /* Code Style End */
 /* Project Style Start */
    .section project {
+    font-size: 20px;
+}
     position: relative;
     inset-inline-start: -180px;
   }
