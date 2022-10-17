@@ -60,8 +60,7 @@ body{
     display: flex;
 }
 .section-title{
-    padding-block-end: 30px;
-    border-bottom: 1px solid var(--main-color);
+    border-bottom: 2px solid var(--main-color);
 }
 .section{
     padding-block-end: 50px;
@@ -265,6 +264,9 @@ body{
         margin-right: 10px;
     }
 /* Key Style End */
+    .section summary{
+	    font-size: 20px;
+} 
 /* Code Style Start */
    .section code {
     font-size: 21px;
