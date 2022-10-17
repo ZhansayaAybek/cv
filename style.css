@@ -159,13 +159,9 @@ body{
     }
     .contacts__image_location{
         background-image: url(assets/svg/location.svg.svg);
-	inline-size: 60px;
-        block-size: 60px;
     }
     .contacts__image_github{
-        background-image: url(assets/svg/github.svg.svg);
-	inline-size: 40px;
-        block-size: 40px;    
+        background-image: url(assets/svg/github.svg.svg);   
     }
     .contacts__image_telegram{
         background-image: url(assets/svg/telegram.svg.svg);
