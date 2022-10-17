@@ -21,7 +21,7 @@ I am 18 year-old sophomore. I am eager to learn, enjoy overcoming challenges, an
 - JS basics
 
 ## **Code Example**
-### Task:Sort the Valarray array in ascending and descending order using the Bucket sort sorting method
+### Task:Sort the Valarray in ascending and descending order using the Bucket sort method
 ```
 #include <iostream>
 using namespace std;
@@ -90,7 +90,7 @@ TUIT
 - Economics and management in the sphere of ICT
 
 RS School
-- JS/Frontend. Stage 0
+- JS/Frontend. Stage 1
 ## **Languages**
 - Kazakh (Native)
 - Russian (Fluent)
