@@ -1,3 +1,3 @@
-[Markdown](https://ZhansyaAybek.github.io/rsschool-cv/cv)
+[Markdown](https://ZhansayaAybek.github.io/rsschool-cv/cv)
 
 [HTML & CSS](https://ZhansayaAybek.github.io/rsschool-cv/)
