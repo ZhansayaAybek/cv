@@ -297,8 +297,8 @@ body{
 /* Project Style End */
 /* Footer Style Start */
     .footer{
-        background-color: var(--light-gray);
-        padding: 10px 0;
+        background-color: var(--main-color);
+        padding: 15px 0;
         text-align: center;
     }
     .footer__inner{
