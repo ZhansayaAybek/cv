@@ -60,6 +60,7 @@ body{
     display: flex;
 }
 .section-title{
+    padding-block-end: 10px;
     border-bottom: 2px solid var(--main-color);
 }
 .section{
@@ -280,7 +281,6 @@ body{
 /* Project Style Start */
    .section project {
     font-size: 20px;
-}
     position: relative;
     inset-inline-start: -180px;
   }
